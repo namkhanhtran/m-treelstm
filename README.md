@@ -3,8 +3,10 @@
 An implementation of the mTreeLSTM architectures.
 
 ### Citation
-Nam Khanh Tran and Weiwei Cheng. _Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations_. 
-In *SEM 2018.
+Nam Khanh Tran, Weiwei Cheng. 
+_Multiplicative Tree-Structured Long Short-Term Memory Networks for Semantic Representations_.
+Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (*SEM-18): 276-286, ACL.
+New Orleans, USA, June 2018
 
 ### Requirements
 - PyTorch (0.3.0)
